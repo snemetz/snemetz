@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **snemetz/snemetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](https://metrics.lecoq.io/snemetz?template=classic&languages=1&languages.ignored=Pascal%2C%20CSS%2C%20HTML%2C%20Javascript&config.timezone=America%2FLos_Angeles)
